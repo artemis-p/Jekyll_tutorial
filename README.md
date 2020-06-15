@@ -1,3 +1,1 @@
-# Wordpress_tutorial
-
-!
+# Jekyll_tutorial
